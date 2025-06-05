@@ -13,7 +13,7 @@ A decentralized smart contract system built on Stacks blockchain that enables tr
 
 ## 📋 Contract Functions
 
-### Public Functions
+### Public Functions.
 
 | Function | Description | Access |
 |----------|-------------|---------|
